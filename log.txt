@@ -1,0 +1,4 @@
+12/0./2021
+things to do:
+1)learn and practice git commands
+2)explore cc a little more
